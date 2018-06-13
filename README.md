@@ -20,7 +20,7 @@ Let's get you familiar with some **Shapes** that you are going to see on your pl
  * Round 106 - Level 120 :  Time - 25 Seconds
  
  **Explore the game at your own pace and see if you can conquer all the levels.**
-<img src="https://github.com/aashna94/Shapify/blob/master/2.png" width="300">
-<img src="https://github.com/aashna94/Shapify/blob/master/3.png" width="300">
+
+<img src="https://github.com/aashna94/Shapify/blob/master/2.png" width="300"><img src="https://github.com/aashna94/Shapify/blob/master/3.png" width="300">
  
 Made with ❤️ by Aashna Narula.
