@@ -8,7 +8,7 @@ The following are the **rules** for the game.
 You have to match the shape occuring on the upper right side of the playground with all the shapes occuring in the deck.
  
 Let's get you familiar with some **Shapes** that you are going to see on your playground.
-<img src="https://github.com/aashna94/Shapify/1.png" width="300">
+<img src="https://github.com/aashna94/Shapify/blob/master/1.png" width="300">
 
 ## Levels
  * Level 1 - Level 15:  Time - 7 Seconds
@@ -20,7 +20,7 @@ Let's get you familiar with some **Shapes** that you are going to see on your pl
  * Round 106 - Level 120 :  Time - 25 Seconds
  
  **Explore the game at your own pace and see if you can conquer all the levels.**
-<img src="https://github.com/aashna94/Shapify/2.png" width="300">
-<img src="https://github.com/aashna94/Shapify/3.png" width="300">
+<img src="https://github.com/aashna94/Shapify/blob/master/2.png" width="300">
+<img src="https://github.com/aashna94/Shapify/blob/master/3.png" width="300">
  
 Made with ❤️ by Aashna Narula.
