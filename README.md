@@ -8,6 +8,7 @@ The following are the **rules** for the game.
 You have to match the shape occuring on the upper right side of the playground with all the shapes occuring in the deck.
  
 Let's get you familiar with some **Shapes** that you are going to see on your playground.
+![1](1.png)
 
 ## Levels
  * Level 1 - Level 15:  Time - 7 Seconds
